@@ -94,7 +94,7 @@ Features MLflow tracking, Docker containerization, and interactive Streamlit das
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="35" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" height="35" />
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ahmedshereef1/us-housing-prediction)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ahmedshereef1/Housing-Regression-Machine-Learning-Project)
 
 ---
 
@@ -124,7 +124,7 @@ Built with FastAPI, PostgreSQL + pgvector, and multiple LLM providers integratio
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="35" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="35"/>
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ahmedshereef1/rag-document-app)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ahmedshereef1/mini-rag-app)
 
 ---
 
@@ -137,7 +137,7 @@ Features containerized labs, role-based access control, and authentication syste
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" height="35" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="35" />
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ahmedshereef1/cyberlab-platform)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ahmedshereef1/Graduation-Project)
 
 ---
 
