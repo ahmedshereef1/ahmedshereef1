@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;MLOps+Specialist;RAG+Systems+Developer;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;MLOps+Specialist;RAG+Systems+Developer;Real-Time+ML+Systems;Building+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,16 +14,16 @@
 
 <br/>
 
-##  About Me
+## About Me
 
 <div align="center">
   
   > **"Leveraging AI to solve real-world problems and deliver impactful solutions."**
   
-  **AI/ML Engineer** | **MLOps** | **Deep Learning** | **NLP & RAG Systems**
+  **AI/ML Engineer** | **MLOps** | **Deep Learning** | **NLP & RAG Systems** | **Real-Time ML**
   
-  🎓 B.Sc. in Computer Science and Engineering - Menoufia University , Egypt  
-  💼 Experienced in end-to-end ML pipelines, model deployment, and scalable AI systems
+  🎓 B.Sc. in Computer Science and Engineering - Menoufia University, Egypt  
+  💼 Experienced in end-to-end ML pipelines, real-time streaming systems, model deployment, and scalable AI systems
     
 </div>
 
@@ -36,6 +36,7 @@
   ### Programming & Data Science
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" height="40" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="40" />
@@ -50,10 +51,16 @@
   ### MLOps & Deployment
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="40" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="40" />
+  
+  ### Real-Time & Streaming
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Quix_Streams-6B4FBB?style=for-the-badge&logo=quix&logoColor=white" height="40" />
   
   ### AI/NLP & Vector Databases
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" height="40" />
@@ -80,6 +87,28 @@
 ## Featured Projects
 
 <div align="center">
+
+---
+
+### ⚡ **Real-Time ML System — Crypto Price Predictor**
+
+[![Real-Time Crypto Forecasting Pipeline](crypto_pipeline.png)](https://github.com/benitomartin/mlops-llm-crypto-predictor)
+
+A production-grade real-time ML system that ingests live crypto market data and news, transforms them into features, and serves price predictions through a microservices architecture.  
+Streams trades via the Kraken WebSocket API, aggregates into OHLCV candles, computes technical indicators, extracts news sentiment, and trains & serves models continuously.
+
+**Stack:** Quix Streams · MLflow · Kubernetes · Kafka · Grafana · PostgreSQL · Kind/Civo · Rust · Python  
+**Features:** Real-time inference · Model registry · Data validation · Automated monitoring · Dockerized microservices · Dev & prod Kubernetes manifests
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="35" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" height="35" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="35" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="35" />
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ahmedshereef1/real-time-ml-system)
 
 ---
 
@@ -155,6 +184,5 @@ Features containerized labs, role-based access control, and authentication syste
 ---
 
 <div align="center">
-  <i> "Turning data into intelligence, one model at a time" </i>
-  
+  <i>"Turning data into intelligence, one model at a time"</i>
 </div>
