@@ -14,6 +14,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="images/sample-photo.png" alt="Sample photo" width="500" />
+</div>
+
 ##  About Me
 
 <div align="center">
