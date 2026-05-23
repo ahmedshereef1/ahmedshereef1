@@ -90,9 +90,9 @@
 
 ---
 
-### ⚡ **Real-Time ML System — Crypto Price Predictor**
+### 🪙 **Real-Time ML System — Crypto Price Predictor**
 
-[![Real-Time Crypto Forecasting Pipeline](crypto_pipeline.png)](https://github.com/benitomartin/mlops-llm-crypto-predictor)
+[![Real-Time Crypto Forecasting Pipeline](images/crypto_pipeline.png)](https://github.com/ahmedshereef1/real-time-ml-system)
 
 A production-grade real-time ML system that ingests live crypto market data and news, transforms them into features, and serves price predictions through a microservices architecture.  
 Streams trades via the Kraken WebSocket API, aggregates into OHLCV candles, computes technical indicators, extracts news sentiment, and trains & serves models continuously.
@@ -157,6 +157,9 @@ Built with FastAPI, PostgreSQL + pgvector, and multiple LLM providers integratio
 ---
 
 ### 🔒 **CyberLab Platform** (Graduation Project)
+
+[![CyberLab Platform](images/Cyberlab.png)](https://github.com/ahmedshereef1/Graduation-Project)
+
 Web-based cybersecurity training platform with interactive labs simulating real-world scenarios.  
 Features containerized labs, role-based access control, and authentication system.
 
