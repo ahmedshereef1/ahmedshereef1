@@ -22,7 +22,7 @@
   
   **AI/ML Engineer** | **MLOps** | **Deep Learning** | **NLP & RAG Systems** | **Real-Time ML**
   
-  🎓 B.Sc. in Computer Science and Engineering - Menoufia University, Egypt  
+  🎓 B.Sc. in Computer Science and Engineering 
   💼 Experienced in end-to-end ML pipelines, real-time streaming systems, model deployment, and scalable AI systems
     
 </div>
