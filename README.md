@@ -22,11 +22,7 @@
   
   **AI/ML Engineer** | **MLOps** | **Deep Learning** | **NLP & RAG Systems** | **Real-Time ML**
   
-<<<<<<< HEAD
-  🎓 B.Sc. in Computer Science and Engineering 
-=======
   🎓 B.Sc. in Computer Science and Engineering - Egypt  
->>>>>>> fe56946 (adds NYC Taxi Demand Predictor project)
   💼 Experienced in end-to-end ML pipelines, real-time streaming systems, model deployment, and scalable AI systems
     
 </div>
