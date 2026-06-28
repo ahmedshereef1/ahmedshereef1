@@ -22,7 +22,11 @@
   
   **AI/ML Engineer** | **MLOps** | **Deep Learning** | **NLP & RAG Systems** | **Real-Time ML**
   
+<<<<<<< HEAD
   🎓 B.Sc. in Computer Science and Engineering 
+=======
+  🎓 B.Sc. in Computer Science and Engineering - Egypt  
+>>>>>>> fe56946 (adds NYC Taxi Demand Predictor project)
   💼 Experienced in end-to-end ML pipelines, real-time streaming systems, model deployment, and scalable AI systems
     
 </div>
@@ -55,6 +59,9 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/CometML-262626?style=for-the-badge&logo=comet&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Opik-5C2D91?style=for-the-badge&logo=opik&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Hopsworks-00A3E0?style=for-the-badge&logo=hopsworks&logoColor=white" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="40" />
   
@@ -109,6 +116,28 @@ Streams trades via the Kraken WebSocket API, aggregates into OHLCV candles, comp
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="35" />
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ahmedshereef1/real-time-ml-system)
+
+---
+
+### 🚕 **NYC Taxi Demand Predictor**
+
+[![NYC Taxi Demand Predictor](images/taxi_demand_predictor.png)](https://github.com/ahmedshereef1/taxi_demand_predictor)
+
+End-to-End ML product that predicts taxi demand across NYC areas, inspired by Uber's airport forecasting system.  
+Implements a full batch-scoring MLOps architecture with a feature pipeline (runs hourly via GitHub Actions), a training pipeline with LightGBM and Optuna hyperparameter tuning, and a prediction pipeline serving results through a Streamlit dashboard.  
+Historical taxi ride data is transformed into time-series features using sliding windows and stored in a Hopsworks feature store. Includes baseline modeling, feature engineering (geo coordinates, temporal features, demand trends), and CometML experiment tracking.
+
+**Stack:** Python · LightGBM · Scikit-learn · Hopsworks · CometML · GitHub Actions · Streamlit · Optuna  
+**Features:** Hourly automated feature ingestion · Feature store · Model registry · Sliding window transforms · Geo & temporal feature engineering · Serverless MLOps
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="35" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg" height="35" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Optuna-4B8BBE?style=for-the-badge&logo=optuna&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Hopsworks-00A3E0?style=for-the-badge&logo=hopsworks&logoColor=white" height="35" />
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ahmedshereef1/taxi_demand_predictor)
 
 ---
 
