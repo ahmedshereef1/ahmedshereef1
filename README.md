@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;MLOps+Specialist;RAG+Systems+Developer;Real-Time+ML+Systems;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Engineer;ML+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,6 +9,9 @@
   </a>
   <a href="mailto:ahmed.gamal91241@gmail.com">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" height="50" />
+  </a>
+  <a href="mailto:AHMED.Gamal637@el-eng.menofia.edu.eg">
+    <img src="images/outlook.jpg" height="50" alt="Outlook" border="2" />
   </a>
 </div>
 
@@ -20,10 +23,10 @@
   
   > **"Leveraging AI to solve real-world problems and deliver impactful solutions."**
   
-  **AI/ML Engineer** | **MLOps** | **Deep Learning** | **NLP & RAG Systems** | **Real-Time ML**
+  **Agentic AI Engineer** | **Data Science** | **MLOps** | **Deep Learning** | **NLP & RAG Systems**
   
   🎓 B.Sc. in Computer Science and Engineering - Egypt  
-  💼 Experienced in end-to-end ML pipelines, real-time streaming systems, model deployment, and scalable AI systems
+  💼 Experienced in agentic AI workflows, end-to-end ML pipelines, model deployment, and scalable intelligent systems
     
 </div>
 
@@ -67,8 +70,15 @@
   
   ### AI/NLP & Vector Databases
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" height="40" />
+  <a href="https://www.langchain.com/langgraph">
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" />
+  </a>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Cohere-0052CC?style=for-the-badge&logo=cohere&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Langfuse-161616?style=for-the-badge&logoColor=white" height="40" />
+  <a href="https://arize.com/">
+    <img src="https://img.shields.io/badge/Arize-5B5BD6?style=for-the-badge&logoColor=white" height="40" />
+  </a>
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40" />
   
   ### Databases & Version Control
@@ -93,7 +103,7 @@
 
 ---
 
-### 🪙 **Real-Time ML System — Crypto Price Predictor**
+### **Real-Time ML System — Crypto Price Predictor**
 
 [![Real-Time Crypto Forecasting Pipeline](images/crypto_pipeline.png)](https://github.com/ahmedshereef1/real-time-ml-system)
 
@@ -115,7 +125,7 @@ Streams trades via the Kraken WebSocket API, aggregates into OHLCV candles, comp
 
 ---
 
-### 🚕 **NYC Taxi Demand Predictor**
+### **NYC Taxi Demand Predictor**
 
 [![NYC Taxi Demand Predictor](images/taxi_demand_predictor.png)](https://github.com/ahmedshereef1/taxi_demand_predictor)
 
@@ -137,7 +147,7 @@ Historical taxi ride data is transformed into time-series features using sliding
 
 ---
 
-### 🏠 **US Housing Price Prediction**
+### **US Housing Price Prediction**
 End-to-end ML pipeline with time-aware validation, hyperparameter optimization, and cloud deployment.  
 Features MLflow tracking, Docker containerization, and interactive Streamlit dashboard.
 
@@ -151,7 +161,7 @@ Features MLflow tracking, Docker containerization, and interactive Streamlit das
 
 ---
 
-### 📉 **Telco Customer Churn Prediction**
+### **Telco Customer Churn Prediction**
 End-to-end machine learning pipeline for predicting customer churn using advanced feature engineering, Great Expectations data validation, hyperparameter tuning, and full MLOps workflow.
 
 Includes automated training pipeline, MLflow experiment tracking, Dockerized model serving with FastAPI, and CI/CD-ready project structure.
@@ -166,7 +176,7 @@ Includes automated training pipeline, MLflow experiment tracking, Dockerized mod
 
 ---
 
-### 📚 **RAG Application for Documents**
+### **RAG Application for Documents**
 Intelligent document querying system with AI-powered responses using Retrieval-Augmented Generation.  
 Built with FastAPI, PostgreSQL + pgvector, and multiple LLM providers integration.
 
@@ -181,7 +191,24 @@ Built with FastAPI, PostgreSQL + pgvector, and multiple LLM providers integratio
 
 ---
 
-### 🔒 **CyberLab Platform** (Graduation Project)
+### **Research Multi-Agent System with LangGraph**
+
+[![Research Multi-Agent System](images/research_multi_ai_agent_system_with_langgraph.png)](https://github.com/ahmedshereef1/agentic-workflow-langgraph)
+
+Agentic research workflow built with LangGraph to coordinate multiple AI agents, gather information, and produce structured research outputs.
+
+**Stack:** Python · LangGraph · Langfuse · Arize
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="35" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Langfuse-161616?style=for-the-badge&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Arize-5B5BD6?style=for-the-badge&logoColor=white" height="35" />
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ahmedshereef1/agentic-workflow-langgraph)
+
+---
+
+### **CyberLab Platform** (Graduation Project)
 
 [![CyberLab Platform](images/Cyberlab.png)](https://github.com/ahmedshereef1/Graduation-Project)
 
@@ -197,6 +224,16 @@ Features containerized labs, role-based access control, and authentication syste
 
 ---
 
+</div>
+
+<br/>
+
+## Certifications
+
+<div align="center">
+  <a href="images/AWS%20Certified%20AI%20Practitioner.png">
+    <img src="images/AWS%20Certified%20AI%20Practitioner.png" alt="AWS Certified AI Practitioner" width="250" height="250"/>
+  </a>
 </div>
 
 <br/>
